@@ -1,0 +1,1 @@
+export { DigitalMarketingLanding } from './DigitalMarketingLanding';
